@@ -9,7 +9,7 @@ def nationalcode(nationalid):
         if (int(c) < 2 and int(a) == int(c)) or (c>=2 and (11-c)==a):
             print ("Valid")
         else:
-            print ("Not Valid")
+            print ("Not Valid !")
 
 
 
